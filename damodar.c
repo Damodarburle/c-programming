@@ -1,3 +1,6 @@
+
+ 1) Write a program to find square and cube of the number
+
 #include <stdio.h>
 int main() {
     float n;
@@ -8,7 +11,9 @@ int main() {
     printf("The cube of the given decimal number is %2f\n", n*n*n);
 
     return 0;
+    
 
+2) Write a programm to find eligibility to vote 
 
 #include <stdio.h>
 int main() {
@@ -35,7 +40,7 @@ int main() {
 
 
 
-
+ 3)Write a program to find even and odd number
 
 #include <stdio.h>
 int main() {
@@ -53,6 +58,7 @@ int main() {
 }
 
 
+4) Write a programm to find leap year.
 
 #include <stdio.h>
 int main() {
@@ -78,6 +84,7 @@ int main() {
    return 0;
 }
  
+5) write a program to find the multipication of the numbers.
 
 #include <stdio.h>
 int main() {
@@ -95,7 +102,9 @@ int main() {
 
     return 0;
 }
- 
+
+6) write a program for operations.
+
 #include <stdio.h>
 #include <math.h>
 int main() {
@@ -105,11 +114,7 @@ int main() {
 
         printf("enter the value of n:");
         scanf("%d",&n);
-
-
-
-
-    int a;
+     int a;
 
     printf("Select the Opertator:Pow(1),Add(2),Sub(3),Mul(4),Div(5)");
     scanf("%d",&a);
@@ -152,6 +157,8 @@ int main() {
 }
 
 
+7) Write a program to find perfect number.
+    
 #include<stdio.h>
 void main()
 {
